@@ -2,8 +2,8 @@ absl-py==0.4.0
 aiodns==1.1.1
 aiohttp==2.3.7
 alabaster==0.7.9
-anaconda-client==1.6.0
-anaconda-project==0.4.1
+#anaconda-client==1.6.0
+#anaconda-project==0.4.1
 asciichart==0.1
 astor==0.7.1
 astroid==1.4.9
@@ -14,7 +14,7 @@ backports.shutil-get-terminal-size==1.0.0
 backtrader==1.9.64.122
 beautifulsoup4==4.5.3
 bitarray==0.8.1
-bitmex-easy-data-scripts==0.1
+#bitmex-easy-data-scripts==0.1
 blaze==0.10.1
 bleach==1.5.0
 bokeh==0.12.4
@@ -33,8 +33,8 @@ click==6.7
 cloudpickle==0.2.2
 clyent==1.2.2
 colorama==0.3.7
-comtypes==1.1.2
-conda==4.5.10
+#comtypes==1.1.2
+#conda==4.5.10
 configobj==5.0.6
 configparser==3.5.0
 contextlib2==0.5.4
@@ -44,7 +44,7 @@ cycler==0.10.0
 Cython==0.28.1
 cytoolz==0.8.2
 dask==0.17.4
-datashape==0.5.4
+#datashape==0.5.4
 decorator==4.0.11
 dill==0.2.5
 docutils==0.14
@@ -95,7 +95,7 @@ lxml==3.7.2
 Markdown==2.6.11
 MarkupSafe==0.23
 matplotlib==2.2.2
-menuinst==1.4.4
+#menuinst==1.4.4
 mistune==0.7.3
 mpmath==0.19
 multidict==3.3.2
@@ -114,9 +114,9 @@ numpydoc==0.6.0
 odo==0.5.0
 olefile==0.45.1
 openpyxl==2.4.1
-pandas==0.22.0
+#pandas==0.22.0
 partd==0.3.7
-path.py==0.0.0
+#path.py==0.0.0
 pathlib2==2.2.0
 patsy==0.4.1
 pep8==1.7.0
